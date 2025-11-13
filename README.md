@@ -43,14 +43,3 @@ The dashboard provides comprehensive insights into:
 
 ---
 *This project emphasizes the environmental benefits of electric vehicles and their role in reducing carbon emissions.*
-```
-
-5. **Scroll down** and click **"Commit new file"**
-
-## Step 8: Add Repository Description
-
-1. On your **repository main page**
-2. Click the **gear icon** ⚙️ next to "About" (top right of the page)
-3. In **Description**, add:
-```
-   EV Data Analytics Dashboard analyzing BEV & PHEV vehicles with focus on CAFV eligibility and environmental impact
