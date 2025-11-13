@@ -5,7 +5,7 @@
 I wanted to analyze data of EVs, specifically the 2 types of them (BEV and PHEV), and give an environment-friendly angle to this analysis. **CAFV (Clean Alternative Fuel Vehicle) eligibility is the main focus** as it shows how safe to nature and environmentally friendly the car is.
 
 ## 📊 Live Dashboard
-[View the Interactive Dashboard Here](https://[your-username].github.io/[repository-name]/)
+[View the Interactive Dashboard Here](https://venkateshtejas.github.io/ev-dashboard/)
 
 ## 🎯 Problem Statement
 
